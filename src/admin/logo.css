@@ -1,0 +1,63 @@
+.logo {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    display: flex !important;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 300px;
+    max-width: 800px;
+    width:  800px;
+    margin: auto;
+    margin-left: 900px;
+    margin-top: 400px;
+    
+    
+    
+}
+.change{
+    color: gray;
+    height: 3em;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: -80px;
+    margin-left: -600px;
+    font-size: 30px;
+
+}
+.im  {
+    color: gray;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    border: orange;
+    background-color: white;
+    height: 3em;
+    width: 450px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.pic1 {
+    margin-top: -75px;
+    margin-left: 600px;
+
+   
+}
+.cha {
+        
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    border: rgb(184, 89, 11);
+    background-color:orange;
+    height: 3em;
+    width: 180px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: 40px;
+    margin-left: 500px; 
+    color: white;
+    }

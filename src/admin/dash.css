@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "CustomFont";
+}
+.voting {
+    color: orange;
+    margin-top: -100px;
+}
+.Start {
+    color: orange;
+}
+.Stop {
+    color: rgb(111, 155, 222);
+}
+.p1{
+font-size: 25px;
+color: gray;
+margin-top: 50px;
+}
+.p2{
+    font-size: 20px;
+    color: gray;
+    }
+.f1 {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    display: flex;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 500px;
+    width:  1000px;
+    margin: auto;
+    margin-left: 300px;
+    max-width: 1000px;
+    
+}
+.p3{
+    font-size: 30px;
+    color: gray;
+    }
+
+
+
+
+.p5{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.p6{
+    margin-top: 30px;
+    margin-left: -300px;
+}
+.p7{
+    margin-top: 30px;
+    margin-left: 240px;
+ }
+.code{
+    color: orange;
+    font-size: 30px;
+    margin-top: -30px;
+    
+    }
+    .generate {
+        
+    width: 40%;
+    height: 3em;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    border: rgb(184, 89, 11);
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+    border-radius: 1em;
+    cursor: pointer;
+    color: white;
+    margin-top: 150px;
+    margin-left: 180px;
+    }
+.p9{
+
+    margin-left: -10px;
+    margin-top: 130px;
+}
+.candidates{
+    font-size: 30px;
+    color: orange;
+    margin-top: -100px;
+}
+.p11{
+    
+   
+    margin-top: 150px;
+    margin-left: 10px;
+    color: gray;
+}
+.f2 {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    display: flex !important;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 500px;
+    max-width: 600px;
+    width:  600px;
+    margin: auto;
+    margin-left: 1600px;
+    margin-top: -500px;
+    
+}
+.f3 {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    display: flex !important;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 500px;
+    max-width: 1500px;
+    width:  1500px;
+    margin: auto;
+    margin-left: 500px;
+    margin-top: 100px;
+    
+    
+}
+.nm{
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    border: orange;
+    background-color: white;
+    height: 3em;
+    width: 250px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.nm:focus {
+    outline-color: rgb(111, 155, 222);
+}
+.position{
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    border: orange;
+    background-color: white;
+    height: 3em;
+    width: 250px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: -55px;
+    margin-left: 400px; 
+}
+
+
+.position:focus {
+    outline-color: rgb(111, 155, 222);
+}
+.Image  {
+    color: gray;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    border: orange;
+    background-color: white;
+    height: 3em;
+    width: 250px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: -55px;
+    margin-left: 700px;
+}
+.pic {
+    margin-top: -75px;
+    margin-left: 1000px;
+
+   
+}
+.Add {
+        
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    border: rgb(184, 89, 11);
+    background-color:orange;
+    height: 3em;
+    width: 180px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: -80px;
+    margin-left: 1150px; 
+    color: white;
+    }

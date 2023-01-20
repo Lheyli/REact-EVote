@@ -1,0 +1,58 @@
+.reset {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+    display: flex !important;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 500px;
+    max-width: 600px;
+    width: 600px;
+    margin: auto;
+    margin-left: 900px;
+    margin-top: 400px;
+    
+    
+}
+.DY{
+    height: 3em; 
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: 100px;
+    margin-left: 10px;
+    color: gray;
+    font-size: 30px;
+}
+
+
+.can {
+        
+    box-shadow: rgb(111, 155, 222);
+    border: rgb(111, 155, 222);
+    background-color:rgb(111, 155, 222);
+    height: 3em;
+    width: 150px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+    margin-top: 100px;
+    margin-left: 230px; 
+    color: white;
+    }
+ .con {
+        
+        box-shadow: 0 0.188em 1.550em rgb(247, 111, 0);
+        border: rgb(184, 89, 11);
+        background-color:orange;
+        height: 3em;
+        width: 150px;
+        border-radius: 0.25em;
+        text-align: center;
+        padding: 2em;
+        margin-top: -55px;
+        margin-left: 400px; 
+        color: white;
+        }
